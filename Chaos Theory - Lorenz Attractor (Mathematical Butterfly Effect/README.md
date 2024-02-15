@@ -5,6 +5,8 @@
 The Lorenz attractor is a set of three differential equations that define a path in tridimentional space:
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/5f993e17e16f1c3ea4ad7031353c61164a226bb8)
+![image](https://github.com/Jhonnatan7br/Non-Linear-problems/assets/104907786/62222c7f-9e98-4759-8b7a-db977c762f6a)
+
 
 Given a 3D point in space (x,y,z) at time t0, you can calculate the next point t1 by using a numerical iterative method (such as Runge-Kutta). If you apply this again and again you can generate a set of points that can be rendered and animated.
 
