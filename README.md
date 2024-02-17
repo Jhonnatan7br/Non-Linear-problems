@@ -18,14 +18,21 @@ Explore the unpredictable yet deterministic universe of chaos theory. Our reposi
 ### Advanced Nonlinear Functional Analysis
 Engage with our resources on nonlinear functional analysis, where we extend the power of mathematical analysis to nonlinear spaces, offering insights into stability, bifurcation, and solvability.
 
+![image](https://github.com/Jhonnatan7br/Non-Linear-problems/assets/104907786/089e7cc9-c220-4dff-8488-ddc0cff7dcbe)
+
 ### Differential Geometry and Topology Applications
 Traverse the curved surfaces of differential geometry and the continuous shapes of topology. Our work provides a geometric framework for understanding the structure of space, solving equations on manifolds, and applying group theory in innovative ways.
+
+![image](https://github.com/Jhonnatan7br/Non-Linear-problems/assets/104907786/b43d074f-9538-413d-b709-0b8adf4f93a3)
 
 ### Group Theory Explorations 
 Unlock the symmetry and structure of mathematical objects with our group theory resources. From finite groups to Lie groups, we explore the algebraic structures that underpin the geometry and topology of complex systems.
 
+![image](https://github.com/Jhonnatan7br/Non-Linear-problems/assets/104907786/bc821014-aa81-45d7-98e0-f3eec2f117b1)
+
 ## Value Proposition
 This repository stands at the intersection of theory and application, offering a rich platform for discovery, learning, and innovation. Whether you're a theoretical physicist seeking to model the cosmos, a mathematician delving into abstract structures, or an engineer tackling real-world nonlinear systems, you'll find valuable resources and a community of like-minded individuals passionate about pushing the boundaries of knowledge.
 
-Get Involved
+[!TIP]
+> Get Involved
 We believe in the power of collaboration to solve the most perplexing puzzles of mathematics and science. Whether you're contributing code, proposing new problems, or sharing insights, your participation can help illuminate the path forward. Join in this journey through the complex, the chaotic, and the beautifully nonlinear.
