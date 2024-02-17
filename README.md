@@ -1,5 +1,5 @@
 # Non-Linear problems
- Chaos theory, nonlinear functional analysis, differential geometry, Toplogy and Group theory
+ Chaos theory, nonlinear functional analysis, differential geometry, Topology and Group theory
 
 ![image](https://github.com/Jhonnatan7br/Non-Linear-problems/assets/104907786/c0414cb3-22f4-4c87-9799-abea4056189c)
 
@@ -33,6 +33,7 @@ Unlock the symmetry and structure of mathematical objects with our group theory 
 ## Value Proposition
 This repository stands at the intersection of theory and application, offering a rich platform for discovery, learning, and innovation. Whether you're a theoretical physicist seeking to model the cosmos, a mathematician delving into abstract structures, or an engineer tackling real-world nonlinear systems, you'll find valuable resources and a community of like-minded individuals passionate about pushing the boundaries of knowledge.
 
-[!Tip]
-> Get Involved
-We believe in the power of collaboration to solve the most perplexing puzzles of mathematics and science. Whether you're contributing code, proposing new problems, or sharing insights, your participation can help illuminate the path forward. Join in this journey through the complex, the chaotic, and the beautifully nonlinear.
+>[!TIP]
+> Get Involved, nonlinear problems often lead to unexpected breakthroughs and novel solutions. Embrace the complexity, and let’s continue our exploration! 🌟🔍📈
+
+Believe in the power of collaboration to solve the most perplexing puzzles of mathematics and science. Whether you're contributing code, proposing new problems, or sharing insights, your participation can help illuminate the path forward. Join in this journey through the complex, the chaotic, and the beautifully nonlinear.
