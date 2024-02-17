@@ -1,5 +1,5 @@
-# Non-Linear problems
- Chaos theory, nonlinear functional analysis, differential geometry, Topology and Group theory
+![image](https://github.com/Jhonnatan7br/Non-Linear-problems/assets/104907786/07728701-d739-44fc-a515-f8bb861b148d)
+> Chaos theory, nonlinear functional analysis, differential geometry, Topology and Group theory
 
 ![image](https://github.com/Jhonnatan7br/Non-Linear-problems/assets/104907786/c0414cb3-22f4-4c87-9799-abea4056189c)
 
