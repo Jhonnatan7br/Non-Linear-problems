@@ -13,6 +13,8 @@ This GitHub repository is a cutting-edge collection of algorithms, theories, and
 ### Chaos Theory Insights
 Explore the unpredictable yet deterministic universe of chaos theory. Our repository includes models and simulations that illustrate the sensitivity to initial conditions, helping you visualize how small changes can lead to vastly different outcomes.
 
+![image](https://github.com/Jhonnatan7br/Non-Linear-problems/assets/104907786/4056414d-4e6a-488f-8552-69daddd63843)
+
 ### Advanced Nonlinear Functional Analysis
 Engage with our resources on nonlinear functional analysis, where we extend the power of mathematical analysis to nonlinear spaces, offering insights into stability, bifurcation, and solvability.
 
