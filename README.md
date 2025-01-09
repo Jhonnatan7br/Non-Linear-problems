@@ -2,7 +2,7 @@
 > Chaos theory, nonlinear functional analysis, differential geometry, Topology and Group theory
  
 ![image](https://github.com/Jhonnatan7br/Non-Linear-problems/assets/104907786/c0414cb3-22f4-4c87-9799-abea4056189c)
- 
+
 ## Overview
 This GitHub repository is a cutting-edge collection of algorithms, theories, and simulations at the frontier of mathematics and science. This repository is dedicated to exploring the complex beauty of Non-Linear Problems, Chaos Theory, Nonlinear Functional Analysis, Differential Geometry, Topology, and Group Theory. It serves as a hub for researchers, educators, and enthusiasts aiming to unravel the mysteries of nonlinear dynamics and their profound implications in the natural and technological world.
 
